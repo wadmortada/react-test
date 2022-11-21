@@ -1,0 +1,6 @@
+.footer {
+    background: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
