@@ -1,0 +1,26 @@
+.promo-section {
+    background: rgb(88, 193, 88);
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+
+}
+
+.intro1 {
+    background: rgb(149, 219, 230);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+}
+
+.intro2 {
+    background: rgb(149, 219, 230);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+}
+.intro3 {
+    background: rgb(149, 219, 230);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+}

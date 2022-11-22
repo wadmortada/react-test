@@ -1,6 +1,8 @@
 .footer {
     background: black;
     color: aliceblue;
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    padding: 0.5rem;
+    border-radius: 0.5rem;
 }

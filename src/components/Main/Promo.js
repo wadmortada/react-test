@@ -1,3 +1,7 @@
+import React from "react";
+import './Main.css';
+
+
 function Promo() {
     return (
         <div className="promo-section">
